@@ -1,0 +1,3 @@
+Mensaje correctamente desencriptado.
+¡Enhorabuena, ya puedes ir a las prácticas!
+Haz un archivo comprimido con tus dos apellidos y entrégalo en la plataforma.
